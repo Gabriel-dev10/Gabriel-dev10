@@ -3,8 +3,8 @@
 ## Bem-vindo ao meu perfil do GitHub!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-dev10&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-dev10&layout=compact&theme=dark" />
 </div>
 
 ## Sou desenvolvedor de jogos e desenvolvedor front-end!
