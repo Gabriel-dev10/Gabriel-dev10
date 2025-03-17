@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-dev10&layout=compact&theme=dark" />
 </div>
 
-## Sou desenvolvedor de jogos e desenvolvedor front-end!
+## Sou desenvolvedor full stack!
 
 ### 🚀 Tecnologias que uso:
 <div align="center">
